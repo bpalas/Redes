@@ -12,14 +12,14 @@
 |----------------|---------------|----------|-----------|
 | Gabriel Boric  | Javier Macaya | Critized | Negative  |
 
-## Resultados:
+## Resultados
 ![Red](https://github.com/bpalas/Redes/blob/main/Png/red_1.png)
 
 
 ![Comunidades](https://github.com/bpalas/Redes/blob/main/Png/red_2.png)
 
 
-## Comunidades (Top 3 más grandes):
+## Comunidades (Top 3 más grandes)
 
 Miembros de la comunidad 21  Juan Diego Montalva, Hugo Herrera, Paulina Núñez, Gloria Hutt, Flavia Torrealba, Ex Vega, Nicolás Cataldo, Francisco Chahuán, Felipe Harboe, Raúl Figueroa, Sebastián Keitel  Keitel, Francisca Perales, Cristóbal Bellolio, Rodrigo Galilea.
 
