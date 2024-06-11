@@ -11,7 +11,7 @@
 ### Output:
 | Persona 1      | Persona 2     | Label    | Sentiment |
 |----------------|---------------|----------|-----------|
-| Gabriel Boric  | Javier Macaya | Critized | Negative  |
+| Javier Macaya | Gabriel Boric| Critized | Negative  |
 
 ## Resultados
 ### Red 
