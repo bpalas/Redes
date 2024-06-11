@@ -13,9 +13,10 @@
 | Gabriel Boric  | Javier Macaya | Critized | Negative  |
 
 ## Resultados
+### Red 
 ![Red](https://github.com/bpalas/Redes/blob/main/Png/red_1.png)
 
-
+### Comunidades
 ![Comunidades](https://github.com/bpalas/Redes/blob/main/Png/red_2.png)
 
 
