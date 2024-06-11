@@ -1,9 +1,9 @@
 # Trabajo final "Medios sociales y ciencia de redes" (2023)
 
 ## Cuadernos (Update 2024): 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LXTd_j87bndZaqem-HhGEznpK9BuuckM?usp=sharing) - R
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LXTd_j87bndZaqem-HhGEznpK9BuuckM?usp=sharing) - R (Webscrapping & Igraph)
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jq16NaAkYRxg6OWoiHWKpvqar1ECvdFM?usp=sharing) - Python
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jq16NaAkYRxg6OWoiHWKpvqar1ECvdFM?usp=sharing) - Python (Nlp & LLm)
 ## Text2Graph
 ![News](https://github.com/bpalas/Redes/blob/main/Png/red_3.jpeg)
 ### Output
