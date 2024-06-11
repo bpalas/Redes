@@ -4,6 +4,12 @@
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LXTd_j87bndZaqem-HhGEznpK9BuuckM?usp=sharing) - R
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jq16NaAkYRxg6OWoiHWKpvqar1ECvdFM?usp=sharing) - Python
+## Text2Graph
+![News](https://github.com/bpalas/Redes/blob/main/Png/red_1.png)
+### Output
+| Persona 1      | Persona 2     | Label    | Sentiment |
+|----------------|---------------|----------|-----------|
+| Gabriel Boric  | Javier Macaya | Critized | Negative  |
 
 ## Resultados:
 ![Red](https://github.com/bpalas/Redes/blob/main/Png/red_1.png)
