@@ -6,7 +6,7 @@ Medios sociales y ciencia de redes
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jq16NaAkYRxg6OWoiHWKpvqar1ECvdFM?usp=sharing) - Python
 
-##Resultados:
+## Resultados:
 ![Red](https://github.com/bpalas/Redes/blob/main/Png/red_1.png)
 
 
