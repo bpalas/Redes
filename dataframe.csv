@@ -1,0 +1,75 @@
+,persona 1,persona 2,label,sentiment
+0,Daniel Jadue,Jorge Sharp,points at,negative
+1,Presidente Boric,Sergio Bobadilla,interacted,neutral
+2,Iván Weissman,Donald Trump,discussed,neutral
+3,Iván Weissman,Rodrigo Castillo,discussed,neutral
+4,Rodrigo Castillo,Donald Trump,discussed,neutral
+5,Daniel Jadue,Jorge Sharp,points at,negative
+6,Marta Lagos,Daniel Jadue,discussed,neutral
+7,Clarisa Hardy,Daniel Jadue,discussed,neutral
+8,Tatiana Urrutia,Pablo Mira,discussed,neutral
+9,Ignacio Walker,Nicole Cardoch,discussed,neutral
+10,Cristián Valdivieso,José Antonio Kast,criticized,negative
+11,Marco Moreno,Cristián Leporati,discussed,neutral
+12,Eduardo Contreras,Augusto Pinochet,querellante,neutral
+13,Sebastián Zamora,Pío Nono,caso,neutral
+14,Juan Jara Quintana,Víctor Jara,condemned for,negative
+15,Miguel Ángel Fernández,José Antonio Kast,commented,neutral
+16,Iván Weissman,Rodrigo Castillo,discussed,neutral
+17,Juan Diego Montalva,Luis Cuello,discussed,neutral
+18,Embajador José Antonio Viera-Gallo,Presidente Javier Milei,presentó sus cartas credenciales,neutral
+19,Presidente Boric,Julian Assange,pide apoyo,neutral
+20,Marisa Navarrete,José Morales,arremetió contra,negative
+21,Tamara Vidaurrazaga,Jorge Gómez,discussed,neutral
+22,Leo Jofré,Pablo Mira,discussed,neutral
+23,Agustín Squella,Presidente Boric,destaca,neutral
+24,Agustín Squella,Juan Luis Castro,discussed,neutral
+25,Mario Carrera,Franco Vargas,investigate,neutral
+26,Marco Moreno,Cristián Leporati,discussed,neutral
+27,Iván Weissman,Rodrigo Castillo,discussed,neutral
+28,Matías Walker,Héctor Cossio,discussed,neutral
+29,Matías Walker,JD. Montalva,discussed,neutral
+30,Héctor Cossio,JD. Montalva,discussed,neutral
+31,General Iturriaga,Franco Vargas,admits,neutral
+32,Sergio Muñoz,exdirector de la PDI,revocan prisión preventiva,positive
+33,Leo Jofré,Cristián Stewart,discussed,neutral
+34,Carmen Gloria Aravena,Paula Daza,discussed,neutral
+35,José Miguel Insulza,Cristián Cruz,discussed,neutral
+36,Al Pan Pan,Patricia Peña,met,neutral
+37,Al Pan Pan,Juan Diego Montalva,met,neutral
+38,Marta Lagos,Clarisa Hardy,discussed,neutral
+39,Kirsten Sehnbruch,Raúl Silva,discussed,neutral
+40,Leo Jofré,Gral. Yáñez,aplazamiento de formalización,neutral
+41,Cristián Stewart,Gral. Yáñez,aplazamiento de formalización,neutral
+42,Presidente Boric,Luis Castillo,indultó,neutral
+43,Ministra Tohá,general Ricardo Yáñez,confirmó,neutral
+44,Ximena Fuentes,Susana Herrera,replaced,negative
+45,Marta Lagos,Clarisa Hardy,discussed,neutral
+46,Leslie Nicholls,Mario Desbordes,ratification,neutral
+47,Jorge Gómez,Mario Desbordes,ratification,neutral
+48,Leo Jofré,Cristián Stewart,analyzed,neutral
+49,Jorge Durán,Gabriel Gaspar,discussed,neutral
+50,Marco Moreno,Cristián Leporati,discussed,neutral
+51,Rodrigo Topelberg,Sauer,will accompany,neutral
+52,Iván Weissman,Rodrigo Castillo,co-authored,neutral
+53,Leslie Nicholls,Karol Cariola,discussed,neutral
+54,Jorge Gómez,Karol Cariola,discussed,neutral
+55,Carlos Correa Bau,Karol Cariola,mentioned,neutral
+56,Leo Jofré,Karol Cariola,discussed,neutral
+57,Cristián Stewart,Karol Cariola,discussed,neutral
+58,Carlos Correa,Karol Cariola,discussed,neutral
+59,Vlado Mirosevic,Karol Cariola,discussed,neutral
+60,general Yáñez,Exsubsecretario de Carabineros,Exsubsecretario de Carabineros,neutral
+61,Diputado Araya,Tomás Izquierdo,discussed,neutral
+62,Hugo Herrera,Marcela Cubillos,criticized,negative
+63,Marco Moreno,Cristián Leporati,analyzed,neutral
+64,Pepe Auth,Jadue,abordaron,neutral
+65,Gonzalo Winter,Jadue,abordaron,neutral
+66,Macarena Fernández,Pepa Errázuriz,criticized,negative
+67,Senador Sandoval,Sebastián Sichel,destroza candidatura,negative
+68,Marta Lagos,Daniel Jadue,commented on,neutral
+69,Clarisa Hardy,Daniel Jadue,commented on,neutral
+70,Walker,Evelyn Matthei,competing with,neutral
+71,Walker,Ximena Rincón,candidate with,neutral
+72,Aquiles Cubillos,Andrés Chadwick,ex-advisor,neutral
+73,Andrés Chadwick,Ángel Valencia,appointed Fiscal,neutral
