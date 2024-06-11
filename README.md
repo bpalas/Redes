@@ -59,3 +59,7 @@ La presencia de actores comunes en las tres listas (por ejemplo, Gabriel Boric y
 Perspectiva Temporal y Futura Influencia (Falta Análisis Temporal):
 El seguimiento de nodos que ganan centralidad y PageRank puede proporcionar información valiosa sobre la evolución y la futura influencia de actores políticos. Por ejemplo, observar la dinámica de Matías Meza-Lopenhandía y Miguel Crispi.
 
+## Others
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fdOS8hzeiuvjuA7SPlOQemZdqVDifHuY?usp=sharing) - Python (Llm & Google Street View)
+
